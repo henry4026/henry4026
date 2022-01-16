@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<!--
-Hi, my name is Henry. I am from California. 
--->
+
+Hi, my name is Henry. I am from California. I am a studnet in
+
